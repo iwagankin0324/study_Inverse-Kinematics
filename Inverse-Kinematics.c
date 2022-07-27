@@ -3,7 +3,7 @@
 int main(void)
 {
 
-    printf("Hello world!\n");
+    printf("github issuse1 !\n");
 
     return 0;
 
