@@ -101,7 +101,7 @@ int main(void)
         printf("itr= %d\n", itr);
         printf("x= %e , y= %e\n", x, y);
         printf("dx= %e , dy= %e\n", dp1, dp2);
-        //printf("q1= %e , q2= %e\n", q1, q2);
+        printf("q1= %e , q2= %e\n", q1, q2);
         q1 = pi/q1;
         q2 = pi/q2;
         printf("q1= pi/%.2lf , q2= pi/%.2lf\n", q1, q2);
